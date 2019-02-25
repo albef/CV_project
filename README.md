@@ -5,6 +5,12 @@ The present project consisted in the development of a basic computer vision syst
 
 The dataset used is available at http://www.isy.liu.se/cvl/research/objrec/posedb/datasets.html.
 
+This software is not intended for use in production or in any critical context. It may contain bugs and it may not work as expected.
+
+This project is copyright of Alberto Forti and it released under the BSD 3-Clause license, as also described in the file [license](license).
+
+
+
 # Contributors
 Alberto Forti
 
